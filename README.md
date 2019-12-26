@@ -1,1 +1,1 @@
-# startJava
+# start Python
